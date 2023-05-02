@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-corporate-governance
+<br>
+Corporate Governance
+
+Organizations must abide by the laws created by the governments of their respective countries. Some of these laws affect the IS security requirements or an organization, which may substantially affect the cost incurred by the organization.Looking at common structures for corporations worldwide, consider the following:• Where does the responsibility of IS security typically lie, and what are some of the ways corporate governance affects this responsibility?• Explain one or two ways that laws affecting an organization impact security documents.• How does IS security affect other groups in the corporation? Explain your answer.• Create an organizational chart of a typical organization and identify how it would likely change if the organization had their IS security compromised.
